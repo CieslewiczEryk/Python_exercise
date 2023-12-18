@@ -1,5 +1,5 @@
 numbers = []
-print("wyliczanie srednie arytmetycznej, podaj liczby aby wyliczyc, jeśli chcesz zakonczyc wpisz: " "koniec")
+print("wyliczanie srednie arytmetycznej, podaj liczby aby wyliczyc, jeśli chcesz zakonczyc wpisz: koniec")
 x = int(input("wprowadz liczbe: "))
 suma = 0
 
